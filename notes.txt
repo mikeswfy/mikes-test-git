@@ -1,4 +1,1 @@
-Some random notes
-
-
-A second line
+Random GIT notes
