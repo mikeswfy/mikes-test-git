@@ -6,5 +6,8 @@ git config --global user.email mike@swfy.co.uk
 git config --global core.editor notepadqq
 git config --list
 
-Tue 1 Aug 11:12:45 BST 2017 Random note pipelined
-Tue 1 Aug 11:14:02 BST 2017 Random note pipelined a second time with notes open
+git checkout branch-name
+
+git branch --list
+git commit --m "Commit message"
+
